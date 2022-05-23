@@ -9,6 +9,7 @@
       <class name="week5.day1.DeleteLead"/>
       <class name="week5.day1.DuplicateLead"/>
       <class name="week5.day1.EditLead"/>
+      <class name="week5.day1.MergeLead"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
